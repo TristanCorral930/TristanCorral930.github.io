@@ -1,0 +1,4 @@
+# H1 Oxyhrdogen Fuel Alternative
+*italicized text* Today, the global population faces the urgent problem that our reliance on fossil fuels continues to damage the environment worldwide, and without adopting cleaner alternatives soon, the future will see worsening climate change, making electrolysis-harvested hydrogen a critical solution for sustainable energy.
+**bold text** [Using oxy-hydrogen gas to enhance efficacy and reduce emissions of diesel engine](https://www.sciencedirect.com/science/article/pii/S2090447923001065) -This article discusses how the use Oxy-hydrogen will improve the conditions of the enviornment compared to alternative fuels used today.
+**bold text** {[Oxy-hydrogen gas as an alternative fuel](https://www.sciencedirect.com/science/article/abs/pii/S0360319921035497) -This article dives deeply into how Oxy-hrogen's application into the energy buisness and how it will affect the real world, such as heat and power.
